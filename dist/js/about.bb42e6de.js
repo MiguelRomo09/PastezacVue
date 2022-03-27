@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpastezac"]=self["webpackChunkpastezac"]||[]).push([[443],{381:function(a,n,t){t.r(n),t.d(n,{default:function(){return l}});var e=t(252);const s={class:"about"},u=(0,e._)("h1",null,"This is an about page",-1),c=[u];function r(a,n){return(0,e.wg)(),(0,e.iD)("div",s,c)}var i=t(744);const o={},f=(0,i.Z)(o,[["render",r]]);var l=f}}]);
+//# sourceMappingURL=about.bb42e6de.js.map
